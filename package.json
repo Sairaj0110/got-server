@@ -1,0 +1,27 @@
+{
+  "name": "got",
+  "version": "1.0.0",
+  "description": "got battles",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "got"
+  },
+  "keywords": [
+    "battles"
+  ],
+  "author": "sairaj",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.0.6",
+    "node-fetch": "^2.1.2"
+  }
+}
